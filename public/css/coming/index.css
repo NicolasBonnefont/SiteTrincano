@@ -61,7 +61,7 @@ a:focus, a:hover {
       height: 100%;
   }
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   #myVideo {
       display: none;
   }
@@ -70,4 +70,4 @@ a:focus, a:hover {
       background-size: cover;
   }
 }
-
+ */
