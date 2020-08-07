@@ -42,3 +42,10 @@ body {
   background: #ddd;
   color: black;
 }
+a{
+  color: wheat
+}
+a:focus, a:hover {
+  color: #ff9800;
+  text-decoration: dotted;
+}
