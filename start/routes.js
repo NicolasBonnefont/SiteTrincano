@@ -2,3 +2,11 @@
 const Route = use('Route')
 
 Route.on('/').render('comingsoon')
+
+
+
+Route.group(() => {
+
+
+
+}).middleware('auth')
