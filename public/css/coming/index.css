@@ -61,13 +61,14 @@ a:focus, a:hover {
       height: 100%;
   }
 }
-/* @media (max-width: 767px) {
+/*  @media (max-width: 767px) {
   #myVideo {
       display: none;
   }
   body {
-      background: url('video3g.mp4');
+      background: url('video.mp4');
       background-size: cover;
   }
 }
+
  */
